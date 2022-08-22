@@ -1,9 +1,7 @@
 # GesturesBuilder
 
 
-
-
-![gestures]<img src="https://user-images.githubusercontent.com/65961727/185911257-f2963c8e-55c9-47ce-b30f-312f8993a319.gif" width="375" height="812">
+<img src="https://user-images.githubusercontent.com/65961727/185911257-f2963c8e-55c9-47ce-b30f-312f8993a319.gif" width="375" height="812">
 
 
 # 👨 Made By
